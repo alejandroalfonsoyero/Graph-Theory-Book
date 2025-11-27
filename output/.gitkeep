@@ -1,0 +1,10 @@
+# Outputs y archivos generados
+
+Este directorio contiene los PDFs compilados y archivos temporales.
+
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+metadata.yaml
